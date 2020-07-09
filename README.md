@@ -16,7 +16,7 @@ Frontend is getting quite overcomplicated to the point were seeing a movement ba
 ## 🛠 My personal projects
  🏎 **[MalaysianMotoring.com](https://malaysianmotoring.com):** Your first and last place for your malaysian automative news and review needs!
  
- 🔊 **Echochamber:** A websocket server that, serves to 'echo' messages to connections in a given room
+ 🔊 **[Echochamber](https://github.com/dividezero/echochamber):** A websocket server that, serves to 'echo' messages to connections in a given room
  
  🏁 **[Typershowdown.com](https://typershowdown.com):** A typing racing game that can be played with up to 6 of your best friends or worst enemies
 
