@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hazlan Rozaimi --- @hazlanrozaimi
+
+Hi there! Im Hazlan, an enthusiastic software dev especially when it comes to learning new technologies and enjoy getting to know team mates. Ive spearheaded Project Initialisations and Project Rescue in multiple different countries including Malaysia, Hong Kong, Singapore, Vietnam. 
+
+Recently my experience has been in enterprise consultation for major clients building full stack enterprise solutions, previously blockchain implementation for secure decentralised data sharing.
+
 
 <!--
 **dividezero/dividezero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
