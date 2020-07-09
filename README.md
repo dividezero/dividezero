@@ -9,7 +9,8 @@ Check out my CV or my writings and rants on [hazlanrozaimi.com](https://hazlanro
 #### Im looking for open source projects i can help out with! (Preferable in JS or Kotlin) 🎉
 
 ## 🔭 My current thoughts and learnings
-I feel like there are a lot of new cloud services, options, tooling out there that have not been widely used. WHat would be the best way to use these tooling for single dev, small team, large enterprise? Which would cost more to build/maintain/scale?
+I feel like there are a lot of new cloud services, options, tooling out there that have not been widely used. What would be the best way to use these tooling for single dev, small team, large enterprise? Which would cost more to build/maintain/scale?
+
 Frontend is getting quite overcomplicated to the point were seeing a movement back towards simpler frameworks, static generation, server side rendering. things like microfrontends. 
 
 ## 🛠 My personal projects
