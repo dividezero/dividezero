@@ -11,7 +11,7 @@ Check out my CV or my writings and rants on [hazlanrozaimi.com](https://hazlanro
 ## 🔭 My current thoughts and learnings
 I feel like there are a lot of new cloud services, options, tooling out there that have not been widely used. What would be the best way to use these tooling for single dev, small team, large enterprise? Which would cost more to build/maintain/scale?
 
-Frontend is getting quite overcomplicated to the point were seeing a movement back towards simpler frameworks, static generation, server side rendering. things like microfrontends. 
+Frontend is getting quite overcomplicated to the point were seeing a movement back towards simpler frameworks, static generation, server side rendering, all the way to some drastic strategy like microfrontends, which may seem slightly counterintuitive in some aspects. WHich ones would be the more logical solutions for their situations. Do some of them even matter or just placebo? 
 
 ## 🛠 My personal projects
  🏎 **MalaysianMotoring.com:** Your first and last place for your malaysian automative news and review needs!
