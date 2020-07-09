@@ -14,11 +14,11 @@ I feel like there are a lot of new cloud services, options, tooling out there th
 Frontend is getting quite overcomplicated to the point were seeing a movement back towards simpler frameworks, static generation, server side rendering, all the way to some drastic strategy like microfrontends, which may seem slightly counterintuitive in some aspects. WHich ones would be the more logical solutions for their situations. Do some of them even matter or just placebo? 
 
 ## 🛠 My personal projects
- 🏎 **MalaysianMotoring.com:** Your first and last place for your malaysian automative news and review needs!
+ 🏎 **[MalaysianMotoring.com](https://malaysianmotoring.com):** Your first and last place for your malaysian automative news and review needs!
  
  🔊 **Echochamber:** A websocket server that, serves to 'echo' messages to connections in a given room
  
- 🏁 **Typershowdown.com:** A typing racing game that can be played with up to 6 of your best friends or worst enemies
+ 🏁 **[Typershowdown.com](https://typershowdown.com):** A typing racing game that can be played with up to 6 of your best friends or worst enemies
 
 ## ☕️ Chat me up
 @ me on [twitter](https://twitter.com/HazlanRozaimi) about tech stuff
