@@ -1,6 +1,6 @@
 # 🦊 Hazlan Rozaimi --- @dividezero, @hazlanrozaimi
 
-![](intro.gif)
+![](https://raw.githubusercontent.com/dividezero/dividezero/master/intro.gif)
 
 Hi there! Im Hazlan, an enthusiastic software dev especially when it comes to learning new technologies and enjoy getting to know team mates. Im currently a software engineer for [Zuhlke HK](https://www.zuhlke.asia/), doing enterprise consultation for major clients building full stack enterprise solutions, previously [Datum](https://datum.org/) blockchain implementation for secure decentralised data sharing.
 
